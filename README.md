@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Hands on Project
 - 📫 How to reach me Linkedin
-- 😄 Pronouns: Prasenjit
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Running out of skills 
 
 <!---
