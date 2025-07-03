@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jitdebnath2002
+- 👋 Hi, I’m @dev-jitcodes
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning solid.js, python backend and JAVA AI springboot framework and Microservices 
 - 💞️ I’m looking to collaborate on Hands on Project
 - 📫 How to reach me Linkedin
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Running out of skills 
+- ⚡ Fun fact: Running out of skills but acquiring too.
 
 <!---
 jitdebnath2002/jitdebnath2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
